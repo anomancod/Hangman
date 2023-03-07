@@ -1,2 +1,2 @@
 # Hangman
-The Hangman is always right
+The Hangman is always right.
